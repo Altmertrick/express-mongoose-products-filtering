@@ -1,3 +1,6 @@
 3:12:30 -  Express SetUp
 3:18:30 -  Connect to database
 3:22:30 -  Controllers and Routes Setup
+3:27:30 -  Postman Setup
+3:29:30 -  express-async-errors
+3:33:30 -  Schema models
