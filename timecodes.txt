@@ -1,0 +1,3 @@
+3:12:30 -  Express SetUp
+3:18:30 -  Connect to database
+3:22:30 -  Controllers and Routes Setup
