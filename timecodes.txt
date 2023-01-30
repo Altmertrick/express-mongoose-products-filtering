@@ -6,7 +6,7 @@
 3:33:30 -  Schema models
 3:41:30 -  Automating adding to database 
 3:51:30 -  Mongoose Filter Methods
-4:20:30 -  Mongoose sort filter <>
+4:20:30 -  Mongoose sort filter 
 4:35:30 -  Mongoose select filter
 4:38:30 -  Mongoose skip and limit filter
 4:50:30 -  Mongoose numeric filter
